@@ -10,6 +10,7 @@
 ![image](https://github.com/deelykos/TypeScript-Cheatsheet/assets/101451046/149cafd6-0f50-4957-a73f-a0d1a0648a81)
 
 ## Class
-![image](https://github.com/deelykos/TypeScript-Cheatsheet/assets/101451046/73efbb78-c3a6-4794-872b-8bbfe632e01c)
+![image](https://github.com/deelykos/TypeScript-Cheatsheet/assets/101451046/db4b0551-a025-493f-b7c9-ceb9ead28a5d)
+
 
 © 2012-2024 Microsoft
