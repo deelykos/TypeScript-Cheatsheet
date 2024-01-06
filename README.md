@@ -13,4 +13,4 @@
 ![image](https://github.com/deelykos/TypeScript-Cheatsheet/assets/101451046/db4b0551-a025-493f-b7c9-ceb9ead28a5d)
 
 
-© 2012-2024 Microsoft
+© 2012-2024 Microsoft.
